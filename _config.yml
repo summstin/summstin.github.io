@@ -23,7 +23,7 @@ repository               : "summstin/summstin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "iconpic.png"
   name             : "Summer Stinnett"
   pronouns         : "she/her"
   bio              : "Computer Science student"
