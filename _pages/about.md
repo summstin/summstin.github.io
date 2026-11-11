@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Sample Page
+Hi, I'm Summer, a Computer Science student at Southern New Hampshire University.
+
+This site is my ePortfolio for my CS-499 capstone.
+
+See my [portfolio](/portfolio/) for my projects, or my [CV](/cv/) for my background.
