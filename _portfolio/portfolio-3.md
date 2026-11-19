@@ -8,7 +8,7 @@ collection: portfolio
 
 The code review was the first milestone of my CS-499 capstone. In a video of about 30 minutes, I walked through the existing code for my two artifacts, the Weight Tracker Android app (CS-360) and the Animal Shelter Dashboard (CS-340). I used the Code Review Checklist to look at each one in three categories: software design and engineering, algorithms and data structures, and databases. The goal was to find real problems in my own code and plan how to fix them.
 
-**Video:** [Watch the code review]([[video link](https://youtu.be/boDEedYtrM0?si=yKYwYgYwOPtI15Y3)])
+**Video:** [Watch the code review](https://youtu.be/boDEedYtrM0)
 
 ## What I found
 
@@ -34,5 +34,3 @@ The code review was the first milestone of my CS-499 capstone. In a video of abo
 ## What I learned
 
 Reviewing my own code with a checklist made me look for problems instead of defending what I had written. Several bugs, like the string comparison in the goal check, were things I had never noticed when I only tested that the app worked. Writing the plan also helped me connect the categories. For example, the date validation I planned for software design is what makes the algorithms work reliable.
-
-**Code:** [View on GitHub](https://github.com/summstin/weight-tracker-android)
