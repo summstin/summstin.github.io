@@ -22,4 +22,4 @@ The Weight Tracker is an Android app that lets users create an account, track th
 
 Working on this project showed me how changes in one part of an app can affect everything else. For example, changing how passwords are stored also meant updating the database and making sure existing user data was not lost. I also got a better understanding of how separating code into smaller components makes an app easier to maintain and test.
 
-**Code:** [View on GitHub](https://github.com/summstin/weight-tracker-android)
+**Code:** [View on GitHub](https://github.com/summstin/weight-tracker-android/tree/software-design)
